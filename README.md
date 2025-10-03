@@ -35,7 +35,7 @@ The platform's core differentiator is its ability to process and adapt to human 
 2\. Technical Architecture
 
 The backend implements a deterministic, sequential emotion-aware pipeline, prioritizing emotional accuracy and empathetic fidelity over raw speed.
-             <img width="1024" height="1024" alt="Gemini_Generated_Image_pytegepytegepyte" src="https://github.com/user-attachments/assets/f9e53a04-8c36-486a-97f1-3465af859a87" />
+             <img width="256" height="256" alt="Gemini_Generated_Image_pytegepytegepyte" src="https://github.com/user-attachments/assets/f9e53a04-8c36-486a-97f1-3465af859a87" />
 
 2.1. Processing Workflow
 
