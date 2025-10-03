@@ -1,4 +1,6 @@
 Neural Voice: A Full-Stack Empathetic Conversational AI Platform
+<img width="510" height="691" alt="Screenshot from 2025-10-04 02-42-58" src="https://github.com/user-attachments/assets/67bef30a-fcf5-40e3-a9ae-31a8238b0ce4" />
+
 
 Neural Voice is a **full-stack, emotion-aware conversational AI assistant** engineered to elevate human-AI interactions. Utilizing a robust **REST architecture** and high-performance inference services, the system delivers contextually appropriate, empathetic responses synthesized with professional, emotion-adaptive voice technology.
 
@@ -7,6 +9,7 @@ Neural Voice is a **full-stack, emotion-aware conversational AI assistant** engi
 1\. Core Capabilities
 
 The platform's core differentiator is its ability to process and adapt to human emotional states in real-time, delivering a truly personalized conversational experience.
+
 
 | Feature | Technical Insight | Value Proposition |
 | :--- | :--- | :--- |
@@ -20,6 +23,7 @@ The platform's core differentiator is its ability to process and adapt to human 
 2\. Technical Architecture
 
 The backend implements a deterministic, sequential emotion-aware pipeline, prioritizing emotional accuracy and empathetic fidelity over raw speed.
+             <img width="1024" height="1024" alt="Gemini_Generated_Image_pytegepytegepyte" src="https://github.com/user-attachments/assets/f9e53a04-8c36-486a-97f1-3465af859a87" />
 
 2.1. Processing Workflow
 
