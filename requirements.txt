@@ -1,0 +1,31 @@
+# Core AI/LLM
+groq
+requests
+
+# Audio Processing
+speechrecognition
+pyaudio
+pyttsx3
+librosa
+soundfile
+pydub
+
+# State Management / Memory
+langchain
+langgraph
+langchain-core
+
+# Numerical
+numpy
+
+
+
+fastapi 
+uvicorn
+python-multipart
+speechrecognition 
+groq 
+python-dotenv 
+requests
+
+
